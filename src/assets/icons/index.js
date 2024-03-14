@@ -32,6 +32,7 @@ import eventify from "./eventify.png";
 import promptopia from "./promptopia.png";
 import danDrepairs from "./danDrepairs.png";
 import freelancer from "./freelancer.png";
+import brainwave from "./brainwave-symbol.svg";
 
 export {
   css,
@@ -68,4 +69,5 @@ export {
   eventify,
   promptopia,
   danDrepairs,
+  brainwave,
 };

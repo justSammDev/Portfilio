@@ -28,6 +28,7 @@ import {
   promptopia,
   danDrepairs,
   freelancer,
+  brainwave,
 } from "../assets/icons";
 
 export const skills = [
@@ -183,5 +184,14 @@ export const projects = [
       "Developed a web application to check the IMDB database for the latest movies and tvshows and add them to favourites.",
     link: "https://movietvshowdb.netlify.app/",
     github: "https://github.com/justSammDev/MovieDB",
+  },
+  {
+    iconUrl: brainwave,
+    theme: "btn-back-green",
+    name: "Modern UI/UX App",
+    description:
+      "Developed a beautiful modern UI/UX application that utilizes some of the latest UI practices.",
+    link: "https://bwave.netlify.app/",
+    github: "https://github.com/justSammDev/brainwave-project",
   },
 ];
