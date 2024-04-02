@@ -33,6 +33,7 @@ import promptopia from "./promptopia.png";
 import danDrepairs from "./danDrepairs.png";
 import freelancer from "./freelancer.png";
 import brainwave from "./brainwave-symbol.svg";
+import yoom from "./yoom.svg";
 
 export {
   css,
@@ -70,4 +71,5 @@ export {
   promptopia,
   danDrepairs,
   brainwave,
+  yoom,
 };

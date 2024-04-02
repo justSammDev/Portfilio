@@ -29,6 +29,7 @@ import {
   danDrepairs,
   freelancer,
   brainwave,
+  yoom,
 } from "../assets/icons";
 
 export const skills = [
@@ -193,5 +194,14 @@ export const projects = [
       "Developed a beautiful modern UI/UX application that utilizes some of the latest UI practices.",
     link: "https://bwave.netlify.app/",
     github: "https://github.com/justSammDev/brainwave-project",
+  },
+  {
+    iconUrl: yoom,
+    theme: "btn-back-blue",
+    name: "Zoom",
+    description:
+      "Built a zoom clone with most of its features using Stream.io for meeting functionalities and Clerk for user management ",
+    link: "https://zoom-clone-self.vercel.app/",
+    github: "https://github.com/justSammDev/zoom_clone",
   },
 ];
